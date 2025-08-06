@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #004080;
+  background-color: #72d837;
   color: white;
   padding: 20px;
   text-align: center;
@@ -61,7 +61,7 @@ form input, form textarea {
 
 form button {
   padding: 10px;
-  background-color: #004080;
+  background-color: #17925f;
   color: white;
   border: none;
   border-radius: 4px;
